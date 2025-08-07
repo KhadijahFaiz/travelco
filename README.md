@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Live Demo
+
+You can view the deployed app here: [TravelCO on Netlify](https://6894947bb57b4c0008543667--fanciful-zabaione-28bf21.netlify.app/)
 
 ## Getting Started
 
