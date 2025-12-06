@@ -1,7 +1,8 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  /* config options here */
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: {
+    domains: ['api.techneapp-staging.site'], // Allow images from this API domain
+  },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
